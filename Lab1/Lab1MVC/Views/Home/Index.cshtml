@@ -1,0 +1,22 @@
+﻿@using Lab1MVC.Components
+
+@inject IModelService ModelService
+
+@* @model InhaberModel *@
+
+@{
+    ViewData["Title"] = "Home Page";
+    var inhaber = ModelService.Inhaber;
+}
+
+
+<div class="text-center">
+@*     <h1 class="display-4">Gewerbeinhaber @Model.Person.Vorname</h1>
+    <component type="typeof(InhaberComponent)"
+               render-mode="Static"
+               param-Inhaber="@Model" />
+ *@    
+    <h1 class="display-4">Gewerbeinhaber aus Index.cshtml @inhaber.Person.Vorname</h1>
+    <component type="typeof(InhaberComponent)"
+               render-mode="Static" />
+</div>

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lab1/Lab1.Client/Lab1.Client.csproj" />
+  <Project Path="Lab1/Lab1/Lab1.csproj" />
+  <Project Path="Lab1Components/Lab1Components.csproj" />
+  <Project Path="Lab1MVC/Lab1MVC.csproj" Id="f6355b24-a08b-4ff2-beff-2cea8a21441d" />
+</Solution>

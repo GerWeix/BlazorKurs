@@ -1,0 +1,13 @@
+﻿@using Lab1MVC.Models
+@inject IModelService ModelService
+
+@code {
+    [CascadingParameter(Name = "Person")]
+    public PersonModel Person { get; set; }
+}
+
+<div class="my-personcomponent">
+@*     Name: <input type="text" name="Name" value="@(Person?.Name ?? "null")"/> 
+ *@    
+  Name aus PersonComponent.razor: <input type="text" name="Name" value="@(ModelService.Inhaber?.Person?.Name ?? "null")" />
+</div>

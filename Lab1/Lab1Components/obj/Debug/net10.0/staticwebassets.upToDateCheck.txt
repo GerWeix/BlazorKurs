@@ -1,0 +1,3 @@
+wwwroot\background.png
+wwwroot\exampleJsInterop.js
+C:\Users\Administrator\source\repos\Lab1\Lab1Components\wwwroot\exampleJsInterop.js

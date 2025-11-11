@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\Administrator\source\repos\Lab1\Lab1\Lab1.Client\wwwroot\appsettings.Development.json
+C:\Users\Administrator\source\repos\Lab1\Lab1\Lab1.Client\wwwroot\appsettings.json

@@ -1,0 +1,7 @@
+/* _content/Lab1Components/PlayerInfo.razor.rz.scp.css */
+.my-component[b-f9772xeaeg] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "554DoOXFSHA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Lab1\\Lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.app.internal.assets.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.components.webassembly.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.components.webassembly.server.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.dotnet.hotreload.webassembly.browser\\10.0.100-rc.2.25502.107\\microsoft.dotnet.hotreload.webassembly.browser.10.0.100-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.0-rc.2.25502.107\\microsoft.jsinterop.webassembly.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+﻿@using Lab1MVC.Models
+@inject IModelService ModelService
+
+@code {
+    private InhaberModel inhaber;
+
+    protected override void OnInitialized()
+    {
+        inhaber = ModelService.Inhaber;
+    }
+}
+
+
+<div class="my-inhabercomponent">
+    @* <CascadingValue Name="Person" Value="Inhaber.Person"></CascadingValue> *@
+    <p>Status aus InhaberComponent.razor: @inhaber.Status</p>
+    @* <PersonComponent Person="Inhaber.Person"></PersonComponent> *@
+    <PersonComponent></PersonComponent>
+</div>
